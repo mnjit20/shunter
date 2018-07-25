@@ -1,0 +1,19 @@
+{
+  "name": "shunter",
+  "version": "1.0.0",
+  "description": "space hunter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnjit20/shunter.git"
+  },
+  "author": "MANJ337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnjit20/shunter/issues"
+  },
+  "homepage": "https://github.com/mnjit20/shunter#readme"
+}
